@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/Package
-report_id: da2f5983c686bcbb73e74afb6c80aa1e
+report_id: a6ab26e637d3f744a12ae78829b6b453
 repo_type: Public
-timestamp: '2023-12-01T14:25:52+00:00'
+timestamp: '2023-12-01T14:30:09+00:00'
 requested_by: web-flow
 provider: github
 branch: main
@@ -329,6 +329,12 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6189/15b2346a2366ab9cae0fe1b7ca576927_normal.png
+  detection_source: package.json
+- name: svgo
+  website_url: https://github.com/svg/svgo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8443/2473585.png
   detection_source: package.json
 - name: "@babel/cli"
   description: Babel command line
@@ -1123,18 +1129,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
-  detection_source: package.json
-- name: svgo
-  description: Nodejs-based tool for optimizing SVG vector graphics files
-  package_url: https://www.npmjs.com/svgo
-  version: 1.3.2
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16716/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
   detection_source_url: github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
 - name: terser-webpack-plugin
