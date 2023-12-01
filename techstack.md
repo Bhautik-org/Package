@@ -326,7 +326,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (4)
+## Other (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
@@ -360,13 +360,21 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8443/2473585.png' alt='svgo'>
+  <br>
+  <sub><a href="https://github.com/svg/svgo">svgo</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (73)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (72)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (73)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (72)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -435,7 +443,6 @@ Full tech stack [here](/techstack.md)
 |[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.8.4|N/A|N/A |MIT|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.4.5|N/A|N/A |MIT|N/A|
 |[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|N/A|N/A |MIT|N/A|
-|[svgo](https://www.npmjs.com/svgo)|v1.3.2|N/A|N/A |MIT|N/A|
 |[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|N/A|N/A |MIT|N/A|
 |[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|N/A|N/A |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.0|N/A|N/A |MIT|N/A|
