@@ -29,6 +29,7 @@ DotEspartoORGForPersonal/Package is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - [Glamorous](https://glamorous.rocks) – JavaScript Framework Components
 - [Bunyan](https://github.com/trentm/node-bunyan) – Logging Tools
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -64,6 +65,7 @@ DotEspartoORGForPersonal/Package is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/9149/full.png' alt='Glamorous'/> [Glamorous](https://glamorous.rocks) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/10249/no-img-open-source.png' alt='Bunyan'/> [Bunyan](https://github.com/trentm/node-bunyan) – Logging Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -74,7 +76,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/Package](https://github.com/DotEspartoORGForPersonal/Package)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|104<br/>Tools used|12/01/23 <br/>Report generated|
+|104<br/>Tools used|12/08/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -326,7 +328,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (5)
+## Other (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
@@ -361,6 +363,14 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'>
+  <br>
+  <sub><a href="https://date-fns.org/">date-fns</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/8443/2473585.png' alt='svgo'>
   <br>
   <sub><a href="https://github.com/svg/svgo">svgo</a></sub>
@@ -372,84 +382,83 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (72)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (71)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (72)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (71)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.12.8|N/A|N/A |MIT|N/A|
-|[@babel/core](https://www.npmjs.com/@babel/core)|v7.11.0|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|v7.10.4|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-decorators](https://www.npmjs.com/@babel/plugin-proposal-decorators)|v7.3.0|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-export-namespace-from](https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from)|v7.2.0|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-function-sent](https://www.npmjs.com/@babel/plugin-proposal-function-sent)|v7.10.4|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-nullish-coalescing-operator](https://www.npmjs.com/@babel/plugin-proposal-nullish-coalescing-operator)|v7.12.1|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-numeric-separator](https://www.npmjs.com/@babel/plugin-proposal-numeric-separator)|v7.10.4|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/@babel/plugin-proposal-optional-chaining)|v7.18.9|N/A|N/A |MIT|N/A|
-|[@babel/plugin-proposal-throw-expressions](https://www.npmjs.com/@babel/plugin-proposal-throw-expressions)|v7.10.4|N/A|N/A |MIT|N/A|
-|[@babel/plugin-syntax-dynamic-import](https://www.npmjs.com/@babel/plugin-syntax-dynamic-import)|v7.8.3|N/A|N/A |MIT|N/A|
-|[@babel/plugin-transform-react-inline-elements](https://www.npmjs.com/@babel/plugin-transform-react-inline-elements)|v7.2.0|N/A|N/A |MIT|N/A|
-|[@babel/polyfill](https://www.npmjs.com/@babel/polyfill)|v7.10.4|N/A|N/A |MIT|N/A|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.3.4|N/A|N/A |MIT|N/A|
-|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|v7.0.0|N/A|N/A |MIT|N/A|
-|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.11.1|N/A|N/A |MIT|N/A|
-|[@google-cloud/storage](https://www.npmjs.com/@google-cloud/storage)|v5.1.2|N/A|N/A |Apache-2.0|N/A|
-|[@hot-loader/react-dom](https://www.npmjs.com/@hot-loader/react-dom)|v16.13.0|N/A|N/A |MIT|N/A|
-|[@sentry/browser](https://www.npmjs.com/@sentry/browser)|v5.15.4|N/A|N/A |MIT|N/A|
-|[@sentry/node](https://www.npmjs.com/@sentry/node)|v5.15.5|N/A|N/A |MIT|N/A|
-|[apollo-cache-inmemory](https://www.npmjs.com/apollo-cache-inmemory)|v1.6.6|N/A|N/A |MIT|N/A|
-|[apollo-client](https://www.npmjs.com/apollo-client)|v2.6.10|N/A|N/A |MIT|N/A|
-|[apollo-link](https://www.npmjs.com/apollo-link)|v1.2.14|N/A|N/A |MIT|N/A|
-|[apollo-link-http](https://www.npmjs.com/apollo-link-http)|v1.5.17|N/A|N/A |MIT|N/A|
-|[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.1.0|N/A|N/A |MIT|N/A|
-|[babel-jest](https://www.npmjs.com/babel-jest)|v26.3.0|N/A|N/A |MIT|N/A|
-|[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.5|N/A|N/A |MIT|N/A|
-|[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.2.0|N/A|N/A |MIT|N/A|
-|[babel-plugin-inline-react-svg](https://www.npmjs.com/babel-plugin-inline-react-svg)|v1.1.1|N/A|N/A |MIT|N/A|
-|[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v6.0.1|N/A|N/A |MIT|N/A|
-|[d3-scale](https://www.npmjs.com/d3-scale)|v3.2.3|N/A|N/A |ISC|N/A|
-|[d3-shape](https://www.npmjs.com/d3-shape)|v2.0.0|N/A|N/A |ISC|N/A|
-|[date-fns](https://www.npmjs.com/date-fns)|v2.16.1|N/A|N/A |MIT|N/A|
-|[debug](https://www.npmjs.com/debug)|v4.2.0|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
-|[enzyme-adapter-react-16](https://www.npmjs.com/enzyme-adapter-react-16)|v1.15.4|N/A|N/A |MIT|N/A|
-|[enzyme-to-json](https://www.npmjs.com/enzyme-to-json)|v3.5.0|N/A|N/A |MIT|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v4.1.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-babel](https://www.npmjs.com/eslint-plugin-babel)|v5.3.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.16.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.12.4|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v2.2.0|N/A|N/A |MIT|N/A|
-|[glamor](https://www.npmjs.com/glamor)|v2.20.40|N/A|N/A |MIT|N/A|
-|[graphql-tag](https://www.npmjs.com/graphql-tag)|v2.10.1|N/A|N/A |MIT|N/A|
-|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|N/A|N/A |MIT|N/A|
-|[imports-loader](https://www.npmjs.com/imports-loader)|v0.8.0|N/A|N/A |MIT|N/A|
-|[jest-junit](https://www.npmjs.com/jest-junit)|v11.1.0|N/A|N/A |Apache-2.0|N/A|
-|[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.0|N/A|N/A |MIT|N/A|
-|[mobx-react](https://www.npmjs.com/mobx-react)|v4.4.3|N/A|N/A |MIT|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|N/A|N/A |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
-|[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|N/A|N/A |MIT|N/A|
-|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|N/A|N/A |MIT|N/A|
-|[raw-loader](https://www.npmjs.com/raw-loader)|v4.0.1|N/A|N/A |MIT|N/A|
-|[react-apollo](https://www.npmjs.com/react-apollo)|v2.5.8|N/A|N/A |MIT|N/A|
-|[react-autosuggest](https://www.npmjs.com/react-autosuggest)|v10.0.2|N/A|N/A |MIT|N/A|
-|[react-bootstrap](https://www.npmjs.com/react-bootstrap)|v1.3.0|N/A|N/A |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v16.8.4|N/A|N/A |MIT|N/A|
-|[react-motion](https://www.npmjs.com/react-motion)|v0.5.2|N/A|N/A |MIT|N/A|
-|[react-popper](https://www.npmjs.com/react-popper)|v1.3.7|N/A|N/A |MIT|N/A|
-|[react-router](https://www.npmjs.com/react-router)|v3.2.0|N/A|N/A |MIT|N/A|
-|[react-select](https://www.npmjs.com/react-select)|v3.1.0|N/A|N/A |MIT|N/A|
-|[react-sortable-hoc](https://www.npmjs.com/react-sortable-hoc)|v1.11.0|N/A|N/A |MIT|N/A|
-|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.8.4|N/A|N/A |MIT|N/A|
-|[slugify](https://www.npmjs.com/slugify)|v1.4.5|N/A|N/A |MIT|N/A|
-|[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|N/A|N/A |MIT|N/A|
-|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|N/A|N/A |MIT|N/A|
-|[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|N/A|N/A |MIT|N/A|
-|[uuid](https://www.npmjs.com/uuid)|v8.3.0|N/A|N/A |MIT|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.0|N/A|N/A |MIT|N/A|
-|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.11.0|N/A|N/A |MIT|N/A|
-|[webpack-manifest-plugin](https://www.npmjs.com/webpack-manifest-plugin)|v2.2.0|N/A|N/A |MIT|N/A|
-|[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.2.0|N/A|N/A |MIT|N/A|
+|[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.12.8|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.11.0|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|v7.10.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-decorators](https://www.npmjs.com/@babel/plugin-proposal-decorators)|v7.3.0|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-export-namespace-from](https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from)|v7.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-function-sent](https://www.npmjs.com/@babel/plugin-proposal-function-sent)|v7.10.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-nullish-coalescing-operator](https://www.npmjs.com/@babel/plugin-proposal-nullish-coalescing-operator)|v7.12.1|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-numeric-separator](https://www.npmjs.com/@babel/plugin-proposal-numeric-separator)|v7.10.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/@babel/plugin-proposal-optional-chaining)|v7.18.9|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-proposal-throw-expressions](https://www.npmjs.com/@babel/plugin-proposal-throw-expressions)|v7.10.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-syntax-dynamic-import](https://www.npmjs.com/@babel/plugin-syntax-dynamic-import)|v7.8.3|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/plugin-transform-react-inline-elements](https://www.npmjs.com/@babel/plugin-transform-react-inline-elements)|v7.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/polyfill](https://www.npmjs.com/@babel/polyfill)|v7.10.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.3.4|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|v7.0.0|12/14/22|DotEsparto |MIT|N/A|
+|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.11.1|12/14/22|DotEsparto |MIT|N/A|
+|[@google-cloud/storage](https://www.npmjs.com/@google-cloud/storage)|v5.1.2|12/14/22|DotEsparto |Apache-2.0|N/A|
+|[@hot-loader/react-dom](https://www.npmjs.com/@hot-loader/react-dom)|v16.13.0|12/14/22|DotEsparto |MIT|N/A|
+|[@sentry/browser](https://www.npmjs.com/@sentry/browser)|v5.15.4|11/16/22|DotEsparto |MIT|N/A|
+|[@sentry/node](https://www.npmjs.com/@sentry/node)|v5.15.5|12/13/22|DotEsparto |MIT|N/A|
+|[apollo-cache-inmemory](https://www.npmjs.com/apollo-cache-inmemory)|v1.6.6|12/14/22|DotEsparto |MIT|N/A|
+|[apollo-client](https://www.npmjs.com/apollo-client)|v2.6.10|12/14/22|DotEsparto |MIT|N/A|
+|[apollo-link](https://www.npmjs.com/apollo-link)|v1.2.14|12/14/22|DotEsparto |MIT|N/A|
+|[apollo-link-http](https://www.npmjs.com/apollo-link-http)|v1.5.17|12/14/22|DotEsparto |MIT|N/A|
+|[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.1.0|12/14/22|DotEsparto |MIT|N/A|
+|[babel-jest](https://www.npmjs.com/babel-jest)|v26.3.0|12/14/22|DotEsparto |MIT|N/A|
+|[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.5|12/14/22|DotEsparto |MIT|N/A|
+|[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[babel-plugin-inline-react-svg](https://www.npmjs.com/babel-plugin-inline-react-svg)|v1.1.1|12/14/22|DotEsparto |MIT|N/A|
+|[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v6.0.1|12/14/22|DotEsparto |MIT|N/A|
+|[d3-scale](https://www.npmjs.com/d3-scale)|v3.2.3|12/13/22|DotEsparto |ISC|N/A|
+|[d3-shape](https://www.npmjs.com/d3-shape)|v2.0.0|12/13/22|DotEsparto |ISC|N/A|
+|[debug](https://www.npmjs.com/debug)|v4.2.0|12/13/22|DotEsparto |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
+|[enzyme-adapter-react-16](https://www.npmjs.com/enzyme-adapter-react-16)|v1.15.4|12/14/22|DotEsparto |MIT|N/A|
+|[enzyme-to-json](https://www.npmjs.com/enzyme-to-json)|v3.5.0|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v4.1.0|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-plugin-babel](https://www.npmjs.com/eslint-plugin-babel)|v5.3.1|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.16.0|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.12.4|12/14/22|DotEsparto |MIT|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v2.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[glamor](https://www.npmjs.com/glamor)|v2.20.40|12/14/22|DotEsparto |MIT|N/A|
+|[graphql-tag](https://www.npmjs.com/graphql-tag)|v2.10.1|12/13/22|DotEsparto |MIT|N/A|
+|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|12/14/22|DotEsparto |MIT|N/A|
+|[imports-loader](https://www.npmjs.com/imports-loader)|v0.8.0|12/14/22|DotEsparto |MIT|N/A|
+|[jest-junit](https://www.npmjs.com/jest-junit)|v11.1.0|12/14/22|DotEsparto |Apache-2.0|N/A|
+|[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.0|12/14/22|DotEsparto |MIT|N/A|
+|[mobx-react](https://www.npmjs.com/mobx-react)|v4.4.3|12/14/22|DotEsparto |MIT|N/A|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|12/13/22|DotEsparto |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
+|[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|12/14/22|DotEsparto |MIT|N/A|
+|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|12/13/22|DotEsparto |MIT|N/A|
+|[raw-loader](https://www.npmjs.com/raw-loader)|v4.0.1|12/14/22|DotEsparto |MIT|N/A|
+|[react-apollo](https://www.npmjs.com/react-apollo)|v2.5.8|12/14/22|DotEsparto |MIT|N/A|
+|[react-autosuggest](https://www.npmjs.com/react-autosuggest)|v10.0.2|12/14/22|DotEsparto |MIT|N/A|
+|[react-bootstrap](https://www.npmjs.com/react-bootstrap)|v1.3.0|12/14/22|DotEsparto |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v16.8.4|12/14/22|DotEsparto |MIT|N/A|
+|[react-motion](https://www.npmjs.com/react-motion)|v0.5.2|12/14/22|DotEsparto |MIT|N/A|
+|[react-popper](https://www.npmjs.com/react-popper)|v1.3.7|12/14/22|DotEsparto |MIT|N/A|
+|[react-router](https://www.npmjs.com/react-router)|v3.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[react-select](https://www.npmjs.com/react-select)|v3.1.0|12/14/22|DotEsparto |MIT|N/A|
+|[react-sortable-hoc](https://www.npmjs.com/react-sortable-hoc)|v1.11.0|12/14/22|DotEsparto |MIT|N/A|
+|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.8.4|12/14/22|DotEsparto |MIT|N/A|
+|[slugify](https://www.npmjs.com/slugify)|v1.4.5|12/14/22|DotEsparto |MIT|N/A|
+|[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|12/14/22|DotEsparto |MIT|N/A|
+|[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|12/14/22|DotEsparto |MIT|N/A|
+|[uuid](https://www.npmjs.com/uuid)|v8.3.0|12/13/22|DotEsparto |MIT|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.0|12/14/22|DotEsparto |MIT|N/A|
+|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.11.0|12/14/22|DotEsparto |MIT|N/A|
+|[webpack-manifest-plugin](https://www.npmjs.com/webpack-manifest-plugin)|v2.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.2.0|12/13/22|DotEsparto |MIT|N/A|
 
 <br/>
 <div align='center'>
