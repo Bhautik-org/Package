@@ -76,7 +76,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/Package](https://github.com/DotEspartoORGForPersonal/Package)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|104<br/>Tools used|01/02/24 <br/>Report generated|
+|105<br/>Tools used|01/08/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -382,9 +382,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (71)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (72)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (71)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (72)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -452,6 +452,7 @@ Full tech stack [here](/techstack.md)
 |[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.8.4|12/14/22|DotEsparto |MIT|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.4.5|12/14/22|DotEsparto |MIT|N/A|
 |[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[svgo](https://www.npmjs.com/svgo)|v1.3.2|12/14/22|DotEsparto |MIT|N/A|
 |[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|12/14/22|DotEsparto |MIT|N/A|
 |[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|12/14/22|DotEsparto |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.0|12/13/22|DotEsparto |MIT|N/A|
