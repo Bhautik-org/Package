@@ -15,6 +15,7 @@
     "start": "yarn clean && webpack-dev-server --config webpack.hot.config.js --progress",
     "clean:ssr": "rm -rf build",
     "build:ssr": "webpack --config webpack.ssr.config.js",
+    "chart.js": "3.5.1",
     "watch:ssr": "yarn build:ssr --watch",
     "wait:ssr": "mkdir build && cp wait.js build/server.js",
     "nodemon:ssr": "nodemon bin/ssr.js --watch ./build | bunyan",
