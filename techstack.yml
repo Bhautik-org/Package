@@ -2,7 +2,7 @@ repo_name: DotEspartoORGForPersonal/Package
 report_id: aa257a33278c06fc2d81535b8e4363da
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-08T15:17:26+00:00'
+timestamp: '2024-01-12T11:12:13+00:00'
 requested_by: DotEsparto1
 provider: github
 branch: main
@@ -299,8 +299,8 @@ tools:
   image_url: https://img.stackshare.io/service/5577/preview.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-13 15:07:04.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2024-01-08 15:51:37.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -710,8 +710,8 @@ tools:
   image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-13 15:07:04.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2024-01-08 15:51:37.000000000 Z
 - name: apollo-cache-inmemory
   description: Core abstract of Caching layer for Apollo Client
   package_url: https://www.npmjs.com/apollo-cache-inmemory
@@ -822,8 +822,8 @@ tools:
   image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-14 11:46:48.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2024-01-08 15:51:37.000000000 Z
 - name: babel-plugin-inline-react-svg
   description: A babel plugin that optimizes and inlines SVGs for your react components
   package_url: https://www.npmjs.com/babel-plugin-inline-react-svg
@@ -1114,7 +1114,7 @@ tools:
 - name: node-fetch
   description: A light-weight module that brings window.fetch to node.js
   package_url: https://www.npmjs.com/node-fetch
-  version: 2.6.1
+  version: 2.6.10
   license: MIT
   open_source: true
   hosted_saas: false
@@ -1123,15 +1123,8 @@ tools:
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-13 15:07:04.000000000 Z
-  vulnerabilities:
-  - name: node-fetch forwards secure headers to untrusted sites
-    cve_id: CVE-2022-0235
-    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
-    detected_date: Jan 22
-    severity: high
-    first_patched: 2.6.7
+  last_updated_by: DotEsparto1
+  last_updated_on: 2024-01-08 15:51:37.000000000 Z
 - name: npm-run-all
   description: A CLI tool to run multiple npm-scripts in parallel or sequential
   package_url: https://www.npmjs.com/npm-run-all
@@ -1452,5 +1445,5 @@ tools:
   image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/Package/blob/main/package.json
   detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-13 15:07:04.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2024-01-08 15:51:37.000000000 Z
