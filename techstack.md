@@ -76,7 +76,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/Package](https://github.com/DotEspartoORGForPersonal/Package)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|105<br/>Tools used|01/08/24 <br/>Report generated|
+|105<br/>Tools used|01/12/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -407,7 +407,7 @@ Full tech stack [here](/techstack.md)
 |[@google-cloud/storage](https://www.npmjs.com/@google-cloud/storage)|v5.1.2|12/14/22|DotEsparto |Apache-2.0|N/A|
 |[@hot-loader/react-dom](https://www.npmjs.com/@hot-loader/react-dom)|v16.13.0|12/14/22|DotEsparto |MIT|N/A|
 |[@sentry/browser](https://www.npmjs.com/@sentry/browser)|v5.15.4|11/16/22|DotEsparto |MIT|N/A|
-|[@sentry/node](https://www.npmjs.com/@sentry/node)|v5.15.5|12/13/22|DotEsparto |MIT|N/A|
+|[@sentry/node](https://www.npmjs.com/@sentry/node)|v5.15.5|01/08/24|DotEsparto1 |MIT|N/A|
 |[apollo-cache-inmemory](https://www.npmjs.com/apollo-cache-inmemory)|v1.6.6|12/14/22|DotEsparto |MIT|N/A|
 |[apollo-client](https://www.npmjs.com/apollo-client)|v2.6.10|12/14/22|DotEsparto |MIT|N/A|
 |[apollo-link](https://www.npmjs.com/apollo-link)|v1.2.14|12/14/22|DotEsparto |MIT|N/A|
@@ -415,7 +415,7 @@ Full tech stack [here](/techstack.md)
 |[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.1.0|12/14/22|DotEsparto |MIT|N/A|
 |[babel-jest](https://www.npmjs.com/babel-jest)|v26.3.0|12/14/22|DotEsparto |MIT|N/A|
 |[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.5|12/14/22|DotEsparto |MIT|N/A|
-|[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.2.0|12/14/22|DotEsparto |MIT|N/A|
+|[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.2.0|01/08/24|DotEsparto1 |MIT|N/A|
 |[babel-plugin-inline-react-svg](https://www.npmjs.com/babel-plugin-inline-react-svg)|v1.1.1|12/14/22|DotEsparto |MIT|N/A|
 |[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v6.0.1|12/14/22|DotEsparto |MIT|N/A|
 |[d3-scale](https://www.npmjs.com/d3-scale)|v3.2.3|12/13/22|DotEsparto |ISC|N/A|
@@ -436,7 +436,7 @@ Full tech stack [here](/techstack.md)
 |[jest-junit](https://www.npmjs.com/jest-junit)|v11.1.0|12/14/22|DotEsparto |Apache-2.0|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.0|12/14/22|DotEsparto |MIT|N/A|
 |[mobx-react](https://www.npmjs.com/mobx-react)|v4.4.3|12/14/22|DotEsparto |MIT|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|12/13/22|DotEsparto |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.10|01/08/24|DotEsparto1 |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|12/14/22|DotEsparto |MIT|N/A|
 |[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|12/13/22|DotEsparto |MIT|N/A|
 |[raw-loader](https://www.npmjs.com/raw-loader)|v4.0.1|12/14/22|DotEsparto |MIT|N/A|
@@ -459,7 +459,7 @@ Full tech stack [here](/techstack.md)
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.0|12/14/22|DotEsparto |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.11.0|12/14/22|DotEsparto |MIT|N/A|
 |[webpack-manifest-plugin](https://www.npmjs.com/webpack-manifest-plugin)|v2.2.0|12/14/22|DotEsparto |MIT|N/A|
-|[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.2.0|12/13/22|DotEsparto |MIT|N/A|
+|[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.2.0|01/08/24|DotEsparto1 |MIT|N/A|
 
 <br/>
 <div align='center'>
